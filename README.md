@@ -1,27 +1,22 @@
-[Horiseon](https://jonathang95.github.io/challenge_1/)
-[Jonathan Garcia Github](https://github.com/Jonathang95/challenge_1)
+# Horiseon Online Solutions
 
+[Horiseon Online Solutions](https://jonathang95.github.io/challenge_1/)
 
+[Github Repository](https://github.com/Jonathang95/challenge_1)
 
+![](assets/images/Screenshot%202023-12-21%20123441.png)
 
+## Description
+Horiseon Online Solutions provides many services which helps businesses increase their web traffic through a variety of strategies by optimizing their search engine optimization (SEO). This is done through social media marketing determining which platforms are best suited for your company and managing your companies reputation online giving you the power over what your potential costomers see when they search you on the web. 
 
+## installation
+N/A
 
+## Usage 
+N/A
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Credits
+N/A
 
 ## license
 
