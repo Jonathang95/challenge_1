@@ -9,7 +9,7 @@
 ## Description
 Horiseon Online Solutions provides many services which helps businesses increase their web traffic through a variety of strategies by optimizing their search engine optimization (SEO). This is done through social media marketing determining which platforms are best suited for your company and managing your companies reputation online giving you the power over what your potential costomers see when they search you on the web. 
 
-## installation
+## Installation
 N/A
 
 ## Usage 
